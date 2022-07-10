@@ -1,0 +1,378 @@
+{
+  "results": [
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " What is React.js?",
+      "correct_answer": "Free and open-source JavaScript front-end library ",
+      "incorrect_answers": [
+        " Open-source JavaScript back-end library ",
+        " JavaScript front-end library to create a database",
+        "None of the mentioned"
+      ]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of the following also known as Conditional Expression:",
+      "correct_answer": "immediate if",
+      "incorrect_answers": ["Alternative to if-else", "Switch statement", "If-then-else statement"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following acts as the input of a class-based component?",
+      "correct_answer": "Props",
+      "incorrect_answers": [
+        "Class",
+        "Factory",
+        "None of the mentioned"
+      ]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many elements can a valid react component return?",
+      "correct_answer": "More than 1 elemen",
+      "incorrect_answers": ["React doesn't return element", "1 Element", "None of the mentioned"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " In which of the following directory React Components are saved?",
+      "correct_answer": "Inside js/components/",
+      "incorrect_answers": [
+        " Inside components/js/",
+        " Inside vendor/js/components/",
+        "Inside vendor/components/"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is president of India? (just for  fun GK in between technical)",
+      "correct_answer": "Ram Nath Kovind",
+      "incorrect_answers": ["Nitin Gadkari", "Narendra Modi", "Amit Shah"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " When interpreter encounters an empty statements, what it will do:",
+      "correct_answer": "Ignores the statements",
+      "incorrect_answers": [
+        "Throws an error",
+        "Prompts to complete the statement",
+        "Shows a warning"
+      ]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "WWhich of the following is method is not a part of ReactDOM?",
+      "correct_answer": "ReactDOM.destroy()",
+      "incorrect_answers": ["ReactDOM.destroy()", " ReactDOM.createPortal()", " All of the mentioned"]
+    },
+    {
+      "category": " javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The function and  var are known as:",
+      "correct_answer": "Declaration statements",
+      "incorrect_answers": ["Keywords", "Data types", "Prototypes"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following command is used to install create-react-app?.",
+      "correct_answer": "npm install -g create-react-app",
+      "incorrect_answers": ["npm install create-react-app", "npm install -f create-react-app", "install -g create-react-app"]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of the following is the correct way for calling the JavaScript code?",
+      "correct_answer": "Function/Method",
+      "incorrect_answers": ["RMI", "Triggering Event", "Preprocessor"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " What of the following is used in React.js to increase performance?",
+      "correct_answer": "Virtual DOM",
+      "incorrect_answers": ["Original DOM", "Both A and B.", "None of the above."]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following keyword is used to create a class inheritance?",
+      "correct_answer": "Extends",
+      "incorrect_answers": ["Inherits", "Create", "This"]
+    },
+    {
+      "category": " javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " In the JavaScript, which one of the following is not considered as an error:?",
+      "correct_answer": "Division by zero",
+      "incorrect_answers": [
+        "Missing of Bracket",
+        "Missing of semicolons",
+        "Syntax error"
+      ]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many ways of defining your variables in ES6??",
+      "correct_answer": "3",
+      "incorrect_answers": ["1", "4", "5"]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In JavaScript the x===y statement implies that:",
+      "correct_answer": "Both are equal in the value and data type.",
+      "incorrect_answers": [
+        "Both x and y are equal in value, type and reference address as well.",
+        "Both are x and y are equal in value only.",
+        "Both are not same at all."
+      ]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " What is a state in React?",
+      "correct_answer": "Internal storage of the component.",
+      "incorrect_answers": ["A permanent storage.", "External storage of the component. ", "None of the above. "]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " Which one of the following is an ternary operator:",
+      "correct_answer": "?",
+      "incorrect_answers": [":", "+", "%"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What are the two ways to handle data in React?",
+      "correct_answer": "State & Props",
+      "incorrect_answers": [
+        "Services & Components",
+        "State & Services",
+        "State & Component"
+      ]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": ") Which one of the following is known as the Equality operator, which is used to check whether the two values are equal or not",
+      "correct_answer": "==",
+      "incorrect_answers": [
+        "===",
+        "=",
+        "&&"
+      ]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " What is the use of webpack command in React.js?",
+      "correct_answer": "It is a module bundler.",
+      "incorrect_answers": ["The webpack command is used to transpile all the JavaScript down into one file.", "It runs React local development server.", "None of the above."]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is used to pass data to a component from outside in React.js?",
+      "correct_answer": "Props",
+      "incorrect_answers": ["SetState", "Render with arguments", "PropTypes"]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " Which one of the following operator returns false if both values are equal?",
+      "correct_answer": "!=",
+      "incorrect_answers": ["All of the above", "!==", "!"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following function is used to change the state of the React.js component?",
+      "correct_answer": "this.setState",
+      "incorrect_answers": ["this.setChangeState", "this.State{}", "None of the these."]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In a case, where the value of the operator is NULL , the typeof returned by the unary operator is___.",
+      "correct_answer": "object",
+      "incorrect_answers": ["undefined", "string", "object"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " Which of the following lifecycle events React components have at the highest level?",
+      "correct_answer": "All of the these",
+      "incorrect_answers": ["Destruction", "Initialization", "State/Property Updates"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " Why is the usage of setState?",
+      "correct_answer": "Invoke code after the setState operation is done.",
+      "incorrect_answers": ["Replace the state completely instead of the default merge action.", 
+      "Access the previous state before the setState operation.", 
+      "None of the these."]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " Which one of the following is not a keyword:",
+      "correct_answer": "use strict",
+      "incorrect_answers": [
+        "if",
+          "with",
+          "debugger"
+      ]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "We can update the state in React.js by calling to setState() method. These calls are:",
+      "correct_answer": "Asynchronous in nature.",
+      "incorrect_answers": ["Synchronous in nature", 
+      "Are asynchronous but can be made synchronous when required.", 
+      "None of the these."]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " What is true for the keys given to a list of elements in React?",
+      "correct_answer": "Unique among the siblings only.",
+      "incorrect_answers": [
+        "Unique in the DOM.",
+        "Do not require to be unique.",
+        "None of the these."
+      ]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of the following is not considered as statement in the JavaScript?",
+      "correct_answer": "use strict",
+      "incorrect_answers": ["debugger", 
+      "with",
+       "if"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": ". The const keyword is used to define a ______.",
+      "correct_answer": "Constant",
+      "incorrect_answers": ["Function scopes variable", "Block scoped variable", "Constant with no initial value"]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " A set of unordered properties that, has a name and value is called______",
+      "correct_answer": "Object",
+      "incorrect_answers": ["String", "Array", "Serialized Object"]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "A collection of elements of the same data type which may either in order or not, is called _____.",
+      "correct_answer": "Array",
+      "incorrect_answers": ["String", "Serialized Object", "Object"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not a disadvantage of React.js?",
+      "correct_answer": "The JSX in React.js makes code easy to read and write.",
+      "incorrect_answers": ["React.js has only a view layer. We have put your code for Ajax requests, events and so on.", 
+      "The library of React.js is pretty large.",
+       "The learning curve can be steep in React.js."]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " Every object contains three object attributes that are _______.",
+      "correct_answer": "Prototype, class, object's extensible flag",
+      "incorrect_answers": ["Prototype, class, objects' parameters", 
+      "Native object, Classes and Interfaces and Object's extensible flag",
+       "Class, parameters, object's extensible flag"]
+    },
+    {
+      "category": "Javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " If a function which does not return a value is known as _____",
+      "correct_answer": "Procedures",
+      "incorrect_answers": [
+        "Static function",
+        "Method",
+        "Dynamic function"
+      ]
+    },
+    {
+      "category": " javascript",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " JavaScript ignores?",
+      "correct_answer": "All of the these",
+      "incorrect_answers": ["newlines", "tabs", "spaces"]
+    },
+    {
+      "category": " react js",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which ReactJS function renders HTML to the web page",
+      "correct_answer": " ReactDOM.render()",
+      "incorrect_answers": ["render()", "ReactDOM.renders()", "renders()"]
+    },
+    {
+      "category": "Personal",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Do you like this app?",
+      "correct_answer": "yes",
+      "incorrect_answers": ["no", "dont no", "preety better"]
+    }
+  ]
+}

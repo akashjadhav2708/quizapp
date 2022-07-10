@@ -1,0 +1,10 @@
+.Information {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.QuizInformation {
+  text-align: center;
+
+  text-justify: inter-word;
+}
